@@ -1,8 +1,8 @@
 #!/usr/bin/python2
-"""
-sypy.py: Example interpreter for Symbolic Python.
-Call with command line arguments: <script-file> [input]
-"""
+
+# sypy.py: Example interpreter for Symbolic Python.
+# Call with command line arguments: <script-file> [input]
+
 
 import sys
 import ast
